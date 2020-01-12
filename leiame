@@ -1,0 +1,1 @@
+No arquivo "automacao" criei um script de cadastro em um site aleatório de vagas de emprego, o script ao ser iniciado, acessa o site e realiza o cadastro de um novo usuário, ao final valida se o cadastro foi corretamente efetuado através de um método assert.
